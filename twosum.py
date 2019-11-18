@@ -9,5 +9,5 @@ class Solution:         #Brute Force Method.
             
             
 s = Solution()      
-p = s.twoSum([2,  7, 9, 11, 15], 9)
+p = s.twoSum([2, 7, 9, 11, 15], 9)
 print(p)
